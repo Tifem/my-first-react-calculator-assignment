@@ -9,12 +9,8 @@ body{
   align-items:center;
 }
 .container{
-  top:20%;
-  left:20%;
-  right:20%;
-  position:absolute;
-  transform:(-50% , -50%);
-  margin:0 auto;
+
+  margin:65px auto;
   width:256px;
   text-align:center;
   border:10px solid #101116;
@@ -29,7 +25,7 @@ body{
 }
 input[type="text"]{
   width:249px;
-  height:60px;
+  height:75px;
   background:#101116;
   border:0px;
   color:#ffffff;
